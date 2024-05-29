@@ -18,7 +18,7 @@ Menampilkan detail satu pengguna yang dipilih, dengan mengimplementasikan API GE
 
 ### 3. Halaman Form
 Menampilkan form untuk menambahkan pengguna baru. dengan mengimplementasikan API POST : "/users"
-#### Untuk menampilkan halaman form, klik tombol/ikon "Tambah Pengguna":
+#### Untuk menampilkan halaman form, klik tombol/ikon (+) "Tambah Pengguna":
 ![adduser_btn](https://github.com/murnilestarirahmi/AppMobile_IntegrasiAPI/assets/127415840/20c65671-c9f5-4dc7-b197-3980ce8f5f3c)
 
 #### Berikut merupakan tampilan halaman form:
