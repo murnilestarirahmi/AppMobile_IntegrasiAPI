@@ -4,7 +4,7 @@ Berikut merupakan aplikasi mobile sederhana dengan integrasi API dari url: https
 
 Oleh: Kelompok 4 Kelas B
 - Murni Lestari Rahmi     (2106035)
-- Ayu ALiyah Asidqi       (2106085)
+- Ayu Aliyah Asidqi       (2106085)
 - Muhammad Arif Syamsudin (2106067)
 
 ## Tampilan Hasil Aplikasi
