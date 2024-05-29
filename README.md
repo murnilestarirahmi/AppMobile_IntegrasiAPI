@@ -10,28 +10,28 @@ Oleh: Kelompok 4 Kelas B
 ## Tampilan Hasil Aplikasi
 ### 1. Halaman Utama
 Menampilkan semua pengguna, dengan mengimplementasikan API GET : "/users"
-![main](https://github.com/murnilestarirahmi/Aplikasi-Integrasi-API/assets/127415840/b3aeb2da-4f76-4b83-8538-ada95dd58284)
+![main](https://github.com/murnilestarirahmi/AppMobile_IntegrasiAPI/assets/127415840/3bd70aaa-0d58-4679-bfa4-400894fa988a)
 
 ### 2. Halaman Detail Pengguna
 Menampilkan detail satu pengguna yang dipilih, dengan mengimplementasikan API GET : "/users/{id}"
-![detail_page](https://github.com/murnilestarirahmi/Aplikasi-Integrasi-API/assets/127415840/34239c31-92fc-4cb3-84f0-f15e7c3c3fad)
+![detail_page](https://github.com/murnilestarirahmi/AppMobile_IntegrasiAPI/assets/127415840/e5c1d2b1-9130-46cd-8272-f9f3565413eb)
 
 ### 3. Halaman Form
 Menampilkan form untuk menambahkan pengguna baru. dengan mengimplementasikan API POST : "/users"
 #### Untuk menampilkan halaman form, klik tombol/ikon "Tambah Pengguna":
-![adduser_btn](https://github.com/murnilestarirahmi/Aplikasi-Integrasi-API/assets/127415840/7cc0a81e-99d7-4ed1-a2b9-080ba6f59fb5)
+![adduser_btn](https://github.com/murnilestarirahmi/AppMobile_IntegrasiAPI/assets/127415840/20c65671-c9f5-4dc7-b197-3980ce8f5f3c)
 
 #### Berikut merupakan tampilan halaman form:
-![adduser_page](https://github.com/murnilestarirahmi/Aplikasi-Integrasi-API/assets/127415840/2dc3c74a-833e-4911-8044-a6563e64b14c)
+![adduser_page](https://github.com/murnilestarirahmi/AppMobile_IntegrasiAPI/assets/127415840/cf65e40d-fc0d-4dc9-92ac-0033d4272ffb)
 
 #### Jika kita klik tombol "Kirim" tanpa mengisi form dahulu, maka akan tampil pesan berkut:
-![msg_failed](https://github.com/murnilestarirahmi/Aplikasi-Integrasi-API/assets/127415840/97a66e0f-be8a-44ce-853b-9199604b4566)
+![msg_failed](https://github.com/murnilestarirahmi/AppMobile_IntegrasiAPI/assets/127415840/24c30308-44fa-434e-ae90-81958951e2b5)
 
 #### Berikut merupakan tampilan saat mengisi form:
-![isi_form](https://github.com/murnilestarirahmi/Aplikasi-Integrasi-API/assets/127415840/d846d915-9dcc-4511-bee9-20d6ac9af55f)
+![isi_form](https://github.com/murnilestarirahmi/AppMobile_IntegrasiAPI/assets/127415840/3d538a2d-eb79-4aff-b73b-e5ea1558f599)
 
 #### Berikut merupakan tampilan pop up pesan apabila berhasil menambahkan pengguna, form akan kosong kembali:
-![msg_success](https://github.com/murnilestarirahmi/Aplikasi-Integrasi-API/assets/127415840/5094c0f7-355b-492f-ab85-224ad89e0e80)
+![msg_success](https://github.com/murnilestarirahmi/AppMobile_IntegrasiAPI/assets/127415840/40869ffb-58ec-4ce9-b193-adf06b4a5d59)
 
 #### Selain itu jika berhasil menambahkan pengguna kita dapat melihatnya di bagian debuge consol:
-![log_success](https://github.com/murnilestarirahmi/Aplikasi-Integrasi-API/assets/127415840/98a89ebd-33b4-4010-989e-23b747cfc255)
+![log_success](https://github.com/murnilestarirahmi/AppMobile_IntegrasiAPI/assets/127415840/7f08d6bb-df02-47cb-861c-653a4c726bdc)
