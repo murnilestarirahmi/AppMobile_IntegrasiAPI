@@ -1,4 +1,4 @@
-# Aplikasi Mobile Sederhana dengan Integrasi API
+# Aplikasi Mobile Integrasi API
 
 Berikut merupakan aplikasi mobile sederhana dengan integrasi API dari url: https://reqres.in/ 
 
