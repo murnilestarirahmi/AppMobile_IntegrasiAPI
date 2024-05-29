@@ -24,7 +24,7 @@ Menampilkan form untuk menambahkan pengguna baru. dengan mengimplementasikan API
 #### Berikut merupakan tampilan halaman form:
 ![adduser_page](https://github.com/murnilestarirahmi/AppMobile_IntegrasiAPI/assets/127415840/cf65e40d-fc0d-4dc9-92ac-0033d4272ffb)
 
-#### Jika kita klik tombol "Kirim" tanpa mengisi form dahulu, maka akan tampil pesan berikut:
+#### Jika kita klik tombol "Kirim" tanpa mengisi form dahulu, maka akan tampil pesan bahwa kolom nama & pekerjaan harus diisi, seperti tampilan berikut:
 ![msg_failed](https://github.com/murnilestarirahmi/AppMobile_IntegrasiAPI/assets/127415840/24c30308-44fa-434e-ae90-81958951e2b5)
 
 #### Berikut merupakan tampilan saat mengisi form:
